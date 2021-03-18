@@ -1,6 +1,5 @@
 
 provider "aws" {
-  source  = "hashicorp/aws"
   version = "~> 3.27"
   access_key = "AKIAV6PBJZ4RU6NQUJNQ"
   secret_key = "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"
